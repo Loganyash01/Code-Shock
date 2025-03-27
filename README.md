@@ -4,7 +4,7 @@ A comprehensive web application for training, analyzing, and deploying machine l
 
 ## 🌟 Features
 
-**LIVE DEMO:**[Click Here](https://code-shock-ntbap6hiusaybsn6dmk87x.streamlit.app/)
+**LIVE DEMO:**[Click Here]https://code-shock-5ra3deqpqjnctiqq9sj2ag.streamlit.app/
 ### 📊 Dataset Management
 
 -   Upload and store preprocessed datasets
@@ -104,7 +104,7 @@ A comprehensive web application for training, analyzing, and deploying machine l
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Himanshu5619/Code-Shock.git)
+git clone https://github.com/Yash5619/Code-Shock.git)
 cd Code-Shock
 ```
 
